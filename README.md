@@ -1,1 +1,2 @@
 # Target Scrambler
+Script to take in a list of names and emails and assigns everybody a target to go after. The script is meant to be run on a server with an email server set up so it can send out emails with a cron job to start the round. This was originally used to help organize a nerf tournament.
